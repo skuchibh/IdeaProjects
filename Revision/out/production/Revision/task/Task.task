@@ -1,0 +1,30 @@
+4 Task
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+20 2
+2
+2
+2
+2
+5 5 5 5 5 
+-1
+1
+8 src/task
+8 -Xmx256M
+4 Main
+9 task.Task
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.06.23
+30 Codeforces Round #359 (Div. 1)
+1
+21 lib.utils.InputReader
+22 lib.utils.OutputWriter
+0
+0

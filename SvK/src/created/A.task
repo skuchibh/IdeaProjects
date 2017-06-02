@@ -1,0 +1,21 @@
+1 A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+0
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+9 created.A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.17
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

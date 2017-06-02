@@ -1,0 +1,31 @@
+4 frnd
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+85 3
+
+2334 5 1256 4323 7687 3244 5678
+
+1256 2 2334 7687
+
+4323 5 2334 5678 6547 9766 9543
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+12 created.frnd
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.02
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

@@ -1,0 +1,44 @@
+5 prims
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+41 4 6
+1 2 5
+1 3 3
+4 1 6
+2 4 7
+3 2 4
+3 4 5
+1
+-1
+1
+1
+47 5 7
+1 2 2
+2 3 3
+1 4 6
+2 4 8
+2 5 5
+3 5 7
+4 5 9
+1
+-1
+0
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+13 created.prims
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.08.24
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

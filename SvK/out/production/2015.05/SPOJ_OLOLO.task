@@ -1,0 +1,28 @@
+10 SPOJ_OLOLO
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+7 3
+1
+8
+1
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+18 created.SPOJ_OLOLO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.30
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

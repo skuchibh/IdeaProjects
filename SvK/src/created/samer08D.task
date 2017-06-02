@@ -1,0 +1,38 @@
+8 samer08D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+124 3
+lovxxelyxxxxx
+xxxxxxxlovely
+1
+lovxxelyxxxxx
+xxxxxxxlovely
+3
+lovxxxelxyxxxx
+xxxlovelyxxxxxxx
+4
+lovxxxelyxxx
+xxxxxxlovely
+0
+
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+16 created.samer08D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.04
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

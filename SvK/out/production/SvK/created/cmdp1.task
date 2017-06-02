@@ -1,0 +1,35 @@
+5 cmdp1
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+58 10
+27533
+16141
+7258
+26939
+20399
+699
+3403
+15789
+19141
+23924
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+13 created.cmdp1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.10.09
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

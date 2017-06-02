@@ -1,0 +1,28 @@
+6 Nakanj
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+19 3
+a1 h8
+a1 c2
+h8 c3
+-1
+1
+11 src/created
+8 -Xmx256M
+4 Main
+14 created.Nakanj
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.08.28
+39 Codeforces Beta Round #87 (Div. 1 Only)
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

@@ -1,0 +1,47 @@
+13 SPOJ_EGYPIZZA
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+42 10
+1/4
+1/4
+1/4
+1/4
+1/4
+1/4
+1/4
+1/4
+1/4
+1/4
+-1
+0
+1
+41 8 
+1/4 
+1/4 
+1/4 
+1/4 
+3/4 
+3/4 
+3/4 
+3/4
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+21 created.SPOJ_EGYPIZZA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.02
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0

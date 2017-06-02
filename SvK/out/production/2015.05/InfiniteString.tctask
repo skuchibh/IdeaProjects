@@ -1,0 +1,77 @@
+14 InfiniteString
+5 equal
+16 java.lang.String
+2
+16 java.lang.String
+1 s
+16 java.lang.String
+1 t
+7
+0
+2
+String
+2 ab
+String
+4 abab
+String
+5 Equal
+0
+1
+2
+String
+3 abc
+String
+3 bca
+String
+9 Not equal
+0
+2
+2
+String
+4 abab
+String
+3 aba
+String
+9 Not equal
+0
+3
+2
+String
+5 aaaaa
+String
+6 aaaaaa
+String
+5 Equal
+0
+4
+2
+String
+6 ababab
+String
+4 abab
+String
+5 Equal
+0
+5
+2
+String
+1 a
+String
+1 z
+String
+9 Not equal
+0
+6
+2
+String
+4 qqqq
+String
+2 qq
+-1
+1
+10 2015.05.06
+17 TopCoder SRM #658
+0
+22 created.InfiniteString
+0
+4 256M

@@ -1,0 +1,30 @@
+3 TRT
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+11 5
+1
+3
+1
+5
+2
+-1
+1
+11 src/created
+16 -Xmx256m -Xss64m
+4 Main
+11 created.TRT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.06
+0 
+1
+17 utils.InputReader
+18 utils.OutputWriter
+0
+0
